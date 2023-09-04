@@ -1,0 +1,115 @@
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SQLite.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Data.SQLite.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Maxim\Desktop\Рабочие задания\Part B\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SQLite.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Data.SQLite.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\Code Work\Part B\obj\Debug\WindowsFormsApp1.pdb
+D:\Всякая всячина\Code Work\Part B\bin\Debug\WindowsFormsApp1.exe.config
+D:\Всякая всячина\Code Work\Part B\bin\Debug\WindowsFormsApp1.exe
+D:\Всякая всячина\Code Work\Part B\bin\Debug\WindowsFormsApp1.pdb
+D:\Всякая всячина\Code Work\Part B\bin\Debug\EntityFramework.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\EntityFramework.SqlServer.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\GMap.NET.Core.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\Newtonsoft.Json.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SqlClient.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SQLite.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Security.Principal.Windows.dll
+D:\Всякая всячина\Code Work\Part B\bin\Debug\EntityFramework.xml
+D:\Всякая всячина\Code Work\Part B\bin\Debug\EntityFramework.SqlServer.xml
+D:\Всякая всячина\Code Work\Part B\bin\Debug\Newtonsoft.Json.xml
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SqlClient.xml
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Data.SQLite.xml
+D:\Всякая всячина\Code Work\Part B\bin\Debug\System.Security.Principal.Windows.xml
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.exe
+D:\Всякая всячина\Code Work\Part B\obj\Debug\WindowsFormsApp1.pdb

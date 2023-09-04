@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Lat] FLOAT NOT NULL,
+	[Lng] FLOAT NOT NULL 
+);
